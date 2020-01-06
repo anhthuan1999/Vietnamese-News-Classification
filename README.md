@@ -2,6 +2,7 @@
 
 Dataset included news content and comments in smartphone that crawled from VnExpress.<br/><br/>
 We use LSTM, BiLSTM, BERT and SVM with TF-IDF, Word2vec and Bag-of-words to classify this documents to positive (labeled as 1), neutral  (labeled as 0) and negative (labeled as 2) <br/><br/>
+Accepted at ICSMB 2020 (International Conference for Small and Medium Business 2020)<br/><br/>
 With Word2Vec, we used pre-trained model that retrieved from https://github.com/sonvx/word2vecVN <br/><br/>
 
 Some chart:<br/><br/>
