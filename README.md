@@ -17,4 +17,5 @@ Best regards<br/><br/>
 <i>Thuan Tran Anh, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
 Nhat Nguyen Anh, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
 Thanh Bui Xuan, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
-An Vo Nguyen Tam, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/></i>
+An Vo Nguyen Tam, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
+Su Le Hoanh, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/></i>
