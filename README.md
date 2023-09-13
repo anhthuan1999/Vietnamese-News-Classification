@@ -11,7 +11,7 @@ Some chart:<br/><br/>
 ![Image of BERT](https://raw.githubusercontent.com/anhthuan1999/Vietnamese-News-Classification/master/images/bert.png) <br/>
 
 
-Please feel free to contact us if you want to use our data at: thuanta17411@st.uel.edu.vn or if you have any question.<br/><br/>
+Please feel free to contact us if you want to use our data at: anhthuan1389@gmail.com or if you have any question.<br/><br/>
 Best regards<br/><br/>
 
 <i>Thuan Tran Anh, Faculty of Information Systems, University of Economics and Law, Vietnam National University Ho Chi Minh City <br/>
